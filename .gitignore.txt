@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Ignore environment variables (Important for your Trading Bot API keys!)
+.env
+config.json
+
+# Ignore build files
+dist/
+build/
